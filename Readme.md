@@ -4,16 +4,6 @@
 </p>
 
 <p align="center">
-  I build production-ready products across web, mobile, and AI automation.
-</p>
-
----
-<h1 align="center">Hi, I'm Shahzad 👋</h1>
-<p align="center">
-  Full-Stack Web Developer • iOS Developer • AI Agent Systems Builder
-</p>
-
-<p align="center">
   I build production-ready products across web, mobile, automation, and AI.
 </p>
 
